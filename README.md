@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.TECH UNDERGRAD here with 3x internships<br>current focus :<br>1.DSA using C++<br>2.data analysis trainity internship<br>3.freecoodecamp responsive web design <br><br>Would try to explore AI AND ML PROJECTS IN FUTURE <br>btw made assignments in libraries , model training <br>for assignments <br><br>languages <br>HTML | CSS | C++ | PYTHON | SQL | MONGODB <br>
+B.TECH UNDERGRAD<br>current focus :<br>1.DSA using C++<br>2.data analysis trainity internship<br>3.freecoodecamp responsive web design <br><br>Would try to explore AI AND ML PROJECTS IN FUTURE <br>btw made assignments in libraries , model training <br>for assignments <br><br>languages <br>HTML | CSS | C++ | PYTHON | SQL | MONGODB <br>
 
 
 ## 🌐 Socials:
